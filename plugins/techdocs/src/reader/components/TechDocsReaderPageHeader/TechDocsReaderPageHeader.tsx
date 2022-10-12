@@ -102,7 +102,7 @@ export const TechDocsReaderPageHeader = (
   const labels = (
     <>
       <HeaderLabel
-        label="Component"
+        label="Entity"
         value={
           <EntityRefLink
             color="inherit"
